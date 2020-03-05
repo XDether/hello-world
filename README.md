@@ -1,7 +1,1 @@
-# hello-world
-My First Repository
-
-I'm an Polish fool
-
-
-I changed the README.md
+Hello this is just a simple Test repo.
